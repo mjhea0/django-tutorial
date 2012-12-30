@@ -1,7 +1,7 @@
 Django Basics
 ===============
 
-This is the code from a brief, 4-part tutorial showing the basics of installing Django and setting up a simple app.
+This is the final code from a brief, 4-part tutorial showing the basics of installing Django and setting up a simple app.
 
 Tutorial -
 
