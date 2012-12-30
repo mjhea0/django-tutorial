@@ -3,7 +3,7 @@ Django Basics
 
 This is the final code from a brief, 4-part tutorial showing the basics of installing Django and setting up a simple app.
 
-Tutorial -
+Tutorial - [http://mherman.org/blog/2012/12/30/django-basics/] (http://mherman.org/blog/2012/12/30/django-basics/)
 
 Videos:
 
