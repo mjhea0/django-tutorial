@@ -1,0 +1,8 @@
+<h1>My Fab Book Collection</h1>
+{% if books_list %}
+<ul>
+{% for b in books_list %}
+	<li>{{b.title}} | {{b.author}} | {{b.read}}</li>
+{% endfor %}
+</ul>
+{% endif %}
